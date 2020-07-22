@@ -1,5 +1,5 @@
 """
-WSGI config for pyshop project.
+WSGI config for pyshop project
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
